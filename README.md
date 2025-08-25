@@ -40,16 +40,16 @@ Estamos felizes em ver sua contribuição!
 
 | # | Categoria | Título & Link | Link do Código |
 |---|---|---|---|
-| 1 | Survey |([https://arxiv.org/abs/2403.17881](https://arxiv.org/abs/2403.17881)) [15] | - |
-| 2 | Survey |([https://arxiv.org/abs/2001.00179](https://arxiv.org/abs/2001.00179)) [12] | - |
-| 3 | Artefatos Espaciais |(https://arxiv.org/abs/1912.13458) [16] | [Código](https://www.google.com/search?q=https://github.com/JStehouwer/FF-X-ray) |
-| 4 | Análise de Frequência |(https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Frequency-Aware_Discriminative_Feature_Learning_Supervised_by_Single-Center_Loss_for_Face_CVPR_2021_paper.pdf) | - |
-| 5 | Inconsistência Temporal |([https://arxiv.org/abs/1811.00661](https://arxiv.org/abs/1811.00661)) [16] | - |
-| 6 | Sinais Biológicos |([https://arxiv.org/abs/1806.02877](https://arxiv.org/abs/1806.02877)) [17] | - |
-| 7 | Espaçotemporal (Geral) |(https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_TALL_Thumbnail_Layout_for_Deepfake_Video_Detection_ICCV_2023_paper.pdf) [2] | [Código](https://github.com/rainy-xu/TALL4Deepfake) [2] |
-| 8 | Espaçotemporal (Geral) |([https://ieeexplore.ieee.org/document/10173099](https://ieeexplore.ieee.org/document/10173099)) [14] | - |
-| 9 | AIGV Geral |(https://arxiv.org/abs/2404.05633) [14] | [Código](https://github.com/chenhaoxing/DeMamba) [14] |
-| 10 | Audiovisual |(https://nips.cc/virtual/2024/poster/94610) [2] | [Código](https://github.com/Eleven4AI/SpeechForensics) [2] |
+| 1 | Survey | [Link](https://arxiv.org/abs/2403.17881) | - |
+| 2 | Survey | [Link](https://arxiv.org/abs/2001.00179) | - |
+| 3 | Artefatos Espaciais | [Link](https://arxiv.org/abs/1912.13458) | [Código](https://www.google.com/search?q=https://github.com/JStehouwer/FF-X-ray) |
+| 4 | Análise de Frequência | [Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Frequency-Aware_Discriminative_Feature_Learning_Supervised_by_Single-Center_Loss_for_Face_CVPR_2021_paper.pdf) | - |
+| 5 | Inconsistência Temporal | [Link](https://arxiv.org/abs/1811.00661) | - |
+| 6 | Sinais Biológicos | [Link](https://arxiv.org/abs/1806.02877) | - |
+| 7 | Espaçotemporal (Geral) | [Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_TALL_Thumbnail_Layout_for_Deepfake_Video_Detection_ICCV_2023_paper.pdf)  | [Código](https://github.com/rainy-xu/TALL4Deepfake) |
+| 8 | Espaçotemporal (Geral) | [Link](https://ieeexplore.ieee.org/document/10173099) | - |
+| 9 | AIGV Geral | [Link](https://arxiv.org/abs/2404.05633) | [Código](https://github.com/chenhaoxing/DeMamba) |
+| 10 | Audiovisual | [Link](https://nips.cc/virtual/2024/poster/94610)| [Código](https://github.com/Eleven4AI/SpeechForensics) |
 
 ## Principais Códigos-Fonte Abertos
 
