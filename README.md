@@ -20,12 +20,12 @@ Estamos felizes em ver sua contribuição!
 
 | # | Nome do Banco de Dados | Título do Artigo & Link | Link do Banco de Dados |
 |---|---|---|---|
-| 1 | FaceForensics++ |(https://arxiv.org/abs/1901.08971) [11] | [Formulário de Acesso](https://www.google.com/search?q=https://docs.google.com/forms/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EKAgQbeDVhmXagg/viewform) [11] |
-| 2 | Celeb-DF (v2) |(https://arxiv.org/abs/1909.12962) [4] | [Página do Projeto](https://github.com/yuezunli/celeb-deepfakeforensics) [4] |
-| 3 | DFDC |(https://arxiv.org/abs/2006.07397) [12] | [Página de Acesso](https://ai.meta.com/datasets/dfdc/) [3] |
-| 4 | DeeperForensics-1.0 |(https://arxiv.org/abs/2001.03024) [6] | [Página do Projeto](https://github.com/EndlessSora/DeeperForensics-1.0) [6] |
-| 5 | FakeAVCeleb |(https://arxiv.org/abs/2105.03003) [5] | [Página do Projeto](https://github.com/DASH-Lab/FakeAVCeleb) [7] |
-| 6 | ForgeryNet |(https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Learning_on_Gradients_Generalized_Artifacts_Representation_for_GAN-Generated_Images_Detection_CVPR_2023_paper.pdf) [5] |((https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)) [2] |
+| 1 | FaceForensics++ |[Artigo](https://arxiv.org/abs/1901.08971) | [Formulário de Acesso](https://www.google.com/search?q=https://docs.google.com/forms/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EKAgQbeDVhmXagg/viewform) |
+| 2 | Celeb-DF (v2) |[Artigo](https://arxiv.org/abs/1909.12962) | [Página do Projeto](https://github.com/yuezunli/celeb-deepfakeforensics) |
+| 3 | DFDC |[Artigo](https://arxiv.org/abs/2006.07397) | [Página de Acesso](https://ai.meta.com/datasets/dfdc/) |
+| 4 | DeeperForensics-1.0 |[Artigo](https://arxiv.org/abs/2001.03024) | [Página do Projeto](https://github.com/EndlessSora/DeeperForensics-1.0) |
+| 5 | FakeAVCeleb |[Artigo](-) | [Página do Projeto](https://github.com/DASH-Lab/FakeAVCeleb) |
+| 6 | ForgeryNet |[Artigo](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Learning_on_Gradients_Generalized_Artifacts_Representation_for_GAN-Generated_Images_Detection_CVPR_2023_paper.pdf) | [Página do Projeto](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection) |
 
 ## Bancos de Dados para Vídeos Gerados por IA em Geral (AIGV)
 
