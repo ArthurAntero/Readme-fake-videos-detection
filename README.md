@@ -24,7 +24,7 @@ Estamos felizes em ver sua contribuição!
 | 2 | Celeb-DF (v2) |[Artigo](https://arxiv.org/abs/1909.12962) | [Página do Projeto](https://github.com/yuezunli/celeb-deepfakeforensics) |
 | 3 | DFDC |[Artigo](https://arxiv.org/abs/2006.07397) | [Página de Acesso](https://ai.meta.com/datasets/dfdc/) |
 | 4 | DeeperForensics-1.0 |[Artigo](https://arxiv.org/abs/2001.03024) | [Página do Projeto](https://github.com/EndlessSora/DeeperForensics-1.0) |
-| 5 | FakeAVCeleb |[Artigo](-) | [Página do Projeto](https://github.com/DASH-Lab/FakeAVCeleb) |
+| 5 | FakeAVCeleb |[-] | [Página do Projeto](https://github.com/DASH-Lab/FakeAVCeleb) |
 | 6 | ForgeryNet |[Artigo](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Learning_on_Gradients_Generalized_Artifacts_Representation_for_GAN-Generated_Images_Detection_CVPR_2023_paper.pdf) | [Página do Projeto](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection) |
 
 ## Bancos de Dados para Vídeos Gerados por IA em Geral (AIGV)
@@ -48,7 +48,7 @@ Estamos felizes em ver sua contribuição!
 | 6 | Sinais Biológicos | [Link](https://arxiv.org/abs/1806.02877) | - |
 | 7 | Espaçotemporal (Geral) | [Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_TALL_Thumbnail_Layout_for_Deepfake_Video_Detection_ICCV_2023_paper.pdf)  | [Código](https://github.com/rainy-xu/TALL4Deepfake) |
 | 8 | Espaçotemporal (Geral) | [Link](https://ieeexplore.ieee.org/document/10173099) | - |
-| 9 | AIGV Geral | [Link](https://arxiv.org/abs/2404.05633) | [Código](https://github.com/chenhaoxing/DeMamba) |
+| 9 | AIGV Geral | [-] | [Código](https://github.com/chenhaoxing/DeMamba) |
 | 10 | Audiovisual | [Link](https://nips.cc/virtual/2024/poster/94610)| [Código](https://github.com/Eleven4AI/SpeechForensics) |
 
 ## Principais Códigos-Fonte Abertos
