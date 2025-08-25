@@ -8,13 +8,13 @@ Estamos felizes em ver sua contribuição!
 
 | Banco de Dados | Foco Principal | Escala (Aprox. Vídeos) | Característica Principal |
 |---|---|---|---|
-| FaceForensics++ | Manipulação Facial | 1k Reais / 5k Falsos | Benchmark fundamental para métodos específicos (FaceSwap, etc.) [1, 2] |
-| DFDC | Manipulação Facial | 23k Reais / 104k Falsos | Desafio em larga escala "in-the-wild" com métodos não vistos [3, 2] |
-| Celeb-DF (v2) | Manipulação Facial | 590 Reais / 5.6k Falsos | Falsificações de alta qualidade com menos artefatos visuais; desafiador [4, 2] |
-| DeeperForensics-1.0 | Manipulação Facial | 50k Reais / 10k Falsos | Adiciona perturbações do mundo real (compressão, ruído) [5, 6] |
-| FakeAVCeleb | Deepfake Audiovisual | 500 Reais / 19.5k Falsos | Banco de dados multimodal com áudio e vídeo manipulados [5, 7] |
-| GenVidBench | AIGV Geral | ~34k Reais / ~109k Falsos | Benchmark moderno para T2V/I2V; teste entre geradores [8, 9] |
-| DeepAction | AIGV Geral | ~2.6k Totais | Foco na detecção de artefatos em movimento humano sintético [10] |
+| FaceForensics++ | Manipulação Facial | 1k Reais / 5k Falsos | Benchmark fundamental para métodos específicos (FaceSwap, etc.) |
+| DFDC | Manipulação Facial | 23k Reais / 104k Falsos | Desafio em larga escala "in-the-wild" com métodos não vistos |
+| Celeb-DF (v2) | Manipulação Facial | 590 Reais / 5.6k Falsos | Falsificações de alta qualidade com menos artefatos visuais; desafiador |
+| DeeperForensics-1.0 | Manipulação Facial | 50k Reais / 10k Falsos | Adiciona perturbações do mundo real (compressão, ruído) |
+| FakeAVCeleb | Deepfake Audiovisual | 500 Reais / 19.5k Falsos | Banco de dados multimodal com áudio e vídeo manipulados |
+| GenVidBench | AIGV Geral | ~34k Reais / ~109k Falsos | Benchmark moderno para T2V/I2V; teste entre geradores |
+| DeepAction | AIGV Geral | ~2.6k Totais | Foco na detecção de artefatos em movimento humano sintético |
 
 ## Bancos de Dados para Detecção de Manipulação Facial (Deepfakes)
 
@@ -34,7 +34,7 @@ Estamos felizes em ver sua contribuição!
 | 1 | GenVidBench |[Artigo](https://arxiv.org/abs/2501.11340) | [Página do Projeto](https://github.com/genvidbench/GenVidBench) |
 | 2 | DeepAction |[Artigo](https://arxiv.org/abs/2412.00526) | [Hugging Face](https://huggingface.co/datasets/faridlab/deepaction_v1) |
 | 3 | GenVideo |[Artigo](https://arxiv.org/abs/2405.19707) | Mencionado em [GitHub](https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection) |
-| 4 | IVY-FAKE |[Artigo](https://arxiv.org/abs/2402.10959) | Mencionado em [GitHub](https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection) |
+| 4 | IVY-FAKE |[Artigo](https://arxiv.org/abs/2506.00979) | Mencionado em [GitHub](https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection) |
 
 ## Métodos de Detecção & Artigos
 
