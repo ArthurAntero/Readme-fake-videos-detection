@@ -33,8 +33,8 @@ Estamos felizes em ver sua contribuição!
 |---|---|---|---|
 | 1 | GenVidBench |[Artigo](https://arxiv.org/abs/2501.11340) | [Página do Projeto](https://github.com/genvidbench/GenVidBench) |
 | 2 | DeepAction |[Artigo](https://arxiv.org/abs/2412.00526) | [Hugging Face](https://huggingface.co/datasets/faridlab/deepaction_v1) |
-| 3 | GenVideo |[Artigo](https://arxiv.org/abs/2404.05633)](https://arxiv.org/abs/2405.19707) | Mencionado em((https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection)) |
-| 4 | IVY-FAKE |[Artigo]([https://arxiv.org/abs/2402.10959](https://arxiv.org/abs/2402.10959)) | Mencionado em((https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection)) |
+| 3 | GenVideo |[Artigo](https://arxiv.org/abs/2405.19707) | Mencionado em [GitHub](https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection) |
+| 4 | IVY-FAKE |[Artigo](https://arxiv.org/abs/2402.10959) | Mencionado em [GitHub](https://github.com/chenhaoxing/Awesome-AI-Generated-Video-Detection) |
 
 ## Métodos de Detecção & Artigos
 
