@@ -25,7 +25,7 @@ Estamos felizes em ver sua contribuição!
 | 3 | DFDC |(https://arxiv.org/abs/2006.07397) [12] | [Página de Acesso](https://ai.meta.com/datasets/dfdc/) [3] |
 | 4 | DeeperForensics-1.0 |(https://arxiv.org/abs/2001.03024) [6] | [Página do Projeto](https://github.com/EndlessSora/DeeperForensics-1.0) [6] |
 | 5 | FakeAVCeleb |(https://arxiv.org/abs/2105.03003) [5] | [Página do Projeto](https://github.com/DASH-Lab/FakeAVCeleb) [7] |
-| 6 | ForgeryNet |([https://arxiv.org/abs/2103.00399](https://arxiv.org/abs/2103.00399)) [5] |((https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)) [2] |
+| 6 | ForgeryNet |([[https://arxiv.org/abs/2103.00399](https://arxiv.org/abs/2103.00399)](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Learning_on_Gradients_Generalized_Artifacts_Representation_for_GAN-Generated_Images_Detection_CVPR_2023_paper.pdf)) [5] |((https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)) [2] |
 
 ## Bancos de Dados para Vídeos Gerados por IA em Geral (AIGV)
 
