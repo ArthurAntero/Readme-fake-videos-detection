@@ -1,8 +1,4 @@
--# :point_right: Recursos para Detecção de Vídeos Gerados por IA
-
-Uma lista selecionada de bancos de dados, artigos e códigos para pesquisa em Detecção de Vídeos Gerados por IA, ideal para projetos de TCC. Se você deseja adicionar materiais a esta lista, sinta-se à vontade para iniciar um *pull request*.
-
-Estamos felizes em ver sua contribuição!
+-# Recursos para Detecção de Vídeos Gerados por IA
 
 ## Visão Geral dos Bancos de Dados
 
@@ -55,15 +51,9 @@ Estamos felizes em ver sua contribuição!
 
 | # | Repositório | Descrição | Link |
 |---|---|---|---|
-| 1 | DFDC 1st Place Solution | Solução vencedora do Deepfake Detection Challenge. Um pipeline completo usando EfficientNets. [18] | [selimsef/dfdc_deepfake_challenge](https://github.com/selimsef/dfdc_deepfake_challenge) [18] |
-| 2 | Spatiotemporal Models | Implementação em PyTorch de várias redes espaçotemporais (R3D, MC3, I3D) avaliadas no Celeb-DF. [19] |((https://github.com/oidelima/Deepfake-Detection)) [19] |
-| 3 | GenVidBench Baselines | Código oficial para treinar e avaliar modelos de base no dataset GenVidBench para detecção geral de AIGV. [9] |((https://github.com/genvidbench/GenVidBench)) [9] |
-| 4 | FaceForensics Baselines | Repositório oficial do dataset FaceForensics++, incluindo scripts para manipulação de dados e modelos de base. [1] | [ondyari/FaceForensics](https://github.com/ondyari/FaceForensics) [1] |
-| 5 | Awesome Lists | Uma meta-lista de recursos selecionados. Um ótimo ponto de partida para encontrar mais artigos e códigos. |((https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)) [2] |
-| 6 | Awesome Lists | Outra lista abrangente cobrindo geração e detecção. |((https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection)) [5] |
-
-# Contato
-
-:sunglasses: Se você quiser fazer contribuições, incluir seus trabalhos ou simplesmente discutir, sinta-se à vontade para me enviar um e-mail. :sunglasses:
-
-:sparkling_heart: Se você achou esta coleção útil, por favor, dê uma estrela neste projeto! Obrigado! :sparkling_heart:
+| 1 | DFDC 1st Place Solution | Solução vencedora do Deepfake Detection Challenge. Um pipeline completo usando EfficientNets. | [selimsef/dfdc_deepfake_challenge](https://github.com/selimsef/dfdc_deepfake_challenge) |
+| 2 | Spatiotemporal Models | Implementação em PyTorch de várias redes espaçotemporais (R3D, MC3, I3D) avaliadas no Celeb-DF. |(https://github.com/oidelima/Deepfake-Detection) |
+| 3 | GenVidBench Baselines | Código oficial para treinar e avaliar modelos de base no dataset GenVidBench para detecção geral de AIGV. |(https://github.com/genvidbench/GenVidBench) |
+| 4 | FaceForensics Baselines | Repositório oficial do dataset FaceForensics++, incluindo scripts para manipulação de dados e modelos de base. | [ondyari/FaceForensics](https://github.com/ondyari/FaceForensics) |
+| 5 | Awesome Lists | Uma meta-lista de recursos selecionados. Um ótimo ponto de partida para encontrar mais artigos e códigos. |(https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection) |
+| 6 | Awesome Lists | Outra lista abrangente cobrindo geração e detecção. |(https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection) |
