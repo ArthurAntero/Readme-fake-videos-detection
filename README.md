@@ -43,7 +43,7 @@ Estamos felizes em ver sua contribuição!
 | 1 | Survey |([https://arxiv.org/abs/2403.17881](https://arxiv.org/abs/2403.17881)) [15] | - |
 | 2 | Survey |([https://arxiv.org/abs/2001.00179](https://arxiv.org/abs/2001.00179)) [12] | - |
 | 3 | Artefatos Espaciais |(https://arxiv.org/abs/1912.13458) [16] | [Código](https://www.google.com/search?q=https://github.com/JStehouwer/FF-X-ray) |
-| 4 | Análise de Frequência |((https://www.google.com/search?q=https://openaccess.thecvf.com/content/CVPR2021/html/Qian_Frequency-Aware_Discriminative_Feature_Learning_Supervised_by_Single-Center_Loss_for_CVPR_2021_paper.html)) [2] | - |
+| 4 | Análise de Frequência |(https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Frequency-Aware_Discriminative_Feature_Learning_Supervised_by_Single-Center_Loss_for_Face_CVPR_2021_paper.pdf) | - |
 | 5 | Inconsistência Temporal |([https://arxiv.org/abs/1811.00661](https://arxiv.org/abs/1811.00661)) [16] | - |
 | 6 | Sinais Biológicos |([https://arxiv.org/abs/1806.02877](https://arxiv.org/abs/1806.02877)) [17] | - |
 | 7 | Espaçotemporal (Geral) |(https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_TALL_Thumbnail_Layout_for_Deepfake_Video_Detection_ICCV_2023_paper.pdf) [2] | [Código](https://github.com/rainy-xu/TALL4Deepfake) [2] |
